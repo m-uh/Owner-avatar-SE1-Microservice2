@@ -1,10 +1,10 @@
-Install
+# Install
 
 npm init -y 
 npm install express 
 
 
-Run
+# Run
 
 node server.js You should see the following output indicating that the server is running:
 
